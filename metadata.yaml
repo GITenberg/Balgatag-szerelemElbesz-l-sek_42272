@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41608
     wikipedia: http://hu.wikipedia.org/wiki/Ol%C3%A1h_G%C3%A1bor_(k%C3%B6lt%C5%91)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42272#Balgatag-szerelemElbesz-l-sek
 gutenberg_issued: '2013-03-07'
 gutenberg_type: Text
 identifiers:
