@@ -1,0 +1,31 @@
+_repo: Balgatag-szerelemElbesz-l-sek_42272
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oláh, Gábor
+    alias: Olah, Gabor
+    birthdate: 1881
+    deathdate: 1942
+    gutenberg_agent_id: '41608'
+    url: http://www.gutenberg.org/2009/agents/41608
+    wikipedia: http://hu.wikipedia.org/wiki/Ol%C3%A1h_G%C3%A1bor_(k%C3%B6lt%C5%91)
+description: ''
+gutenberg_issued: '2013-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42272'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcsh 'Short stories, Hungarian'
+tableOfContents: Balgatag szerelem -- A kém -- Vass Mihály jó napja -- Julis néni
+  elkésett -- A lengyel herceg -- Köd ült a lelkemen -- Álom -- A. B. F. R. A.
+title: 'Balgatag szerelem: Elbeszélések'
+url: http://www.gutenberg.org/ebooks/42272
